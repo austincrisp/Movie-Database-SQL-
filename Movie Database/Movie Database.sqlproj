@@ -58,4 +58,10 @@
   <ItemGroup>
     <Folder Include="Properties" />
   </ItemGroup>
+  <ItemGroup>
+    <Build Include="person_table.sql" />
+    <Build Include="review_table.sql" />
+    <Build Include="normal_mode_selects.sql" />
+    <Build Include="movie_table.sql" />
+  </ItemGroup>
 </Project>
